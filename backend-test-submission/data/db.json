@@ -1,0 +1,57 @@
+{
+  "bfd03f": {
+    "url": "https://www.google.com",
+    "expiry": "2025-06-27T06:32:45.155Z",
+    "clicks": 1,
+    "createdAt": "2025-06-27T05:32:45.155Z"
+  },
+  "github123": {
+    "url": "https://github.com",
+    "expiry": "2025-06-27T07:32:49.510Z",
+    "clicks": 0,
+    "createdAt": "2025-06-27T05:32:49.510Z"
+  },
+  "d019e5": {
+    "url": "https://example.com",
+    "expiry": "2025-06-27T06:11:15.381Z",
+    "clicks": 0,
+    "createdAt": "2025-06-27T05:41:15.381Z"
+  },
+  "google": {
+    "url": "https://www.google.com",
+    "expiry": "2025-06-27T06:45:30.675Z",
+    "clicks": 4,
+    "createdAt": "2025-06-27T05:45:30.676Z"
+  },
+  "2cbf36": {
+    "url": "https://www.google.com",
+    "expiry": "2025-06-27T07:00:19.931Z",
+    "clicks": 1,
+    "createdAt": "2025-06-27T06:00:19.931Z"
+  },
+  "5ab30d": {
+    "url": "https://www.google.com",
+    "expiry": "2025-06-27T07:02:48.351Z",
+    "clicks": 1,
+    "createdAt": "2025-06-27T06:02:48.351Z"
+  },
+  "test592": {
+    "url": "https://github.com",
+    "expiry": "2025-06-27T08:02:52.972Z",
+    "clicks": 0,
+    "createdAt": "2025-06-27T06:02:52.972Z"
+  },
+  "abcd1": {
+    "url": "https://very-very-very-long-and-descriptive-subdomain-that-goes-on-and-on.somedomain.com/additional/directory/levels/for/more/length/really-log-sub-domain/a-really-log-page",
+    "expiry": "2025-06-27T06:43:40.480Z",
+    "clicks": 1,
+    "createdAt": "2025-06-27T06:13:40.480Z"
+  },
+  "exmpl1": {
+    "url": "https://example.com/articles/how-to-build-a-url-shortener",
+    "expiry": "2025-06-27T08:07:18.461Z",
+    "clicks": 0,
+    "createdAt": "2025-06-27T07:07:18.462Z",
+    "accessHistory": []
+  }
+}
